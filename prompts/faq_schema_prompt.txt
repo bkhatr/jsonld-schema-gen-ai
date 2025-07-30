@@ -1,0 +1,6 @@
+You are an expert in SEO schema and structured data. Generate a valid JSON-LD for a FAQPage schema.org type.
+
+Here is the input FAQ content:
+{faq_content}
+
+Return only JSON-LD, no other text.
